@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/PRJ301/AssignmentPRJ/src/java/Controller/Student/Personal.java</file>
+            <file>file:/D:/PRJ301/AssignmentPRJ/src/java/Controller/admin/AdminController.java</file>
+            <file>file:/D:/PRJ301/AssignmentPRJ/src/java/Controller/Student/BookBedController.java</file>
+            <file>file:/D:/PRJ301/AssignmentPRJ/src/java/Controller/Student/UpdateController.java</file>
+            <file>file:/D:/PRJ301/AssignmentPRJ/src/java/Controller/authentication/LoginController.java</file>
+            <file>file:/D:/PRJ301/AssignmentPRJ/web/WEB-INF/web.xml</file>
+            <file>file:/D:/PRJ301/AssignmentPRJ/src/java/Controller/Student/CreateRequestController.java</file>
+            <file>file:/D:/PRJ301/AssignmentPRJ/src/java/Controller/Home/Home.java</file>
+            <file>file:/D:/PRJ301/AssignmentPRJ/src/java/Controller/Student/AboutController.java</file>
+            <file>file:/D:/PRJ301/AssignmentPRJ/src/java/Controller/Home/AdminHome.java</file>
+            <file>file:/D:/PRJ301/AssignmentPRJ/src/java/Controller/admin/AddAdminController.java</file>
+            <file>file:/D:/PRJ301/AssignmentPRJ/src/java/Controller/authentication/BaseRequireAuthenController.java</file>
+            <file>file:/D:/PRJ301/AssignmentPRJ/src/java/Controller/admin/DeleteAdminController.java</file>
+            <file>file:/D:/PRJ301/AssignmentPRJ/web/view/DomDetail.jsp</file>
+            <file>file:/D:/PRJ301/AssignmentPRJ/src/java/Controller/admin/ViewRequestController.java</file>
+            <file>file:/D:/PRJ301/AssignmentPRJ/src/java/Controller/admin/ViewBookBedController.java</file>
+            <file>file:/D:/PRJ301/AssignmentPRJ/src/java/Controller/Student/MoneyController.java</file>
+            <file>file:/D:/PRJ301/AssignmentPRJ/src/java/Controller/Student/StudentRequestController.java</file>
+            <file>file:/D:/PRJ301/AssignmentPRJ/src/java/Controller/admin/AdminDomDetailController.java</file>
+            <file>file:/D:/PRJ301/AssignmentPRJ/src/java/Controller/admin/UpdateBookBedController.java</file>
+            <file>file:/D:/PRJ301/AssignmentPRJ/src/java/Controller/Student/StudentPlaceHistoryController.java</file>
+            <file>file:/D:/PRJ301/AssignmentPRJ/src/java/Controller/authentication/CheckRegisController.java</file>
+            <file>file:/D:/PRJ301/AssignmentPRJ/src/java/Dal/DBContext.java</file>
+            <file>file:/D:/PRJ301/AssignmentPRJ/src/java/Controller/Student/HistoryController.java</file>
+            <file>file:/D:/PRJ301/AssignmentPRJ/src/java/Controller/Student/BedDetailController.java</file>
+            <file>file:/D:/PRJ301/AssignmentPRJ/web/view/Register.jsp</file>
+            <file>file:/D:/PRJ301/AssignmentPRJ/src/java/Controller/admin/UpdateRequestController.java</file>
+        </group>
+    </open-files>
+</project-private>
